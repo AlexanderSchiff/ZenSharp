@@ -37,7 +37,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Github.Ulex.ZenSharp.Integration</RootNamespace>
     <AssemblyName>ZenSharp.Integration</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -281,6 +281,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ZenSharp.Core\ZenSharp.Core.nproj">
+      <Project>{efa574e2-de9c-4017-bb5c-8fc4cd8d5e80}</Project>
+      <Name>ZenSharp.Core</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config">

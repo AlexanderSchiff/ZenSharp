@@ -3,16 +3,17 @@
   <metadata>
     <id>$PackageId$</id>
     <version>$PackageVersion$</version>
-    <title>ZenSharp auto completion plugin</title>
+    <title>ZenSharp auto completion plugin for Rider</title>
     <authors>Alexander Ulitin</authors>
     <description>
-      A shortcuts language for defining ReSharper live template items. You can specify your own live template scheme using flexible language.
+      A shortcuts language for defining Rider live template items. You can specify your own live template scheme using
+      flexible language.
 Free and open source. More information on github.
     </description>
     <releaseNotes>
       Bug fix, new syntax.
     </releaseNotes>
-    <copyright>Alexander Ulitin</copyright>
+    <copyright>Alex Schiff</copyright>
     <tags>livetemplates code completion ltg</tags>
     <projectUrl>https://github.com/ulex/ZenSharp</projectUrl>
     <iconUrl>https://raw.github.com/ulex/IntroduceNsAlias/master/icon.png</iconUrl>
